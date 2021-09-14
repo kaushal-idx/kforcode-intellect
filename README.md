@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kforcode-intellect
+- 👋 Hi, I’m Kaushal Kumar Prajapati
 - 👀 I’m interested in Neural Networks
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
